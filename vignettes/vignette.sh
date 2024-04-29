@@ -17,7 +17,7 @@ nl='
 introduction="Provide a brief medical vignette with the most important clinical information for each scenario."
 
 # file options
-question_file=./vignettes_Q.txt
+question_file=./vignette_q.txt
 touch ./llama-2-70b-chat/results/$MODEL_NAME.txt
 output_file=./llama-2-70b-chat/results/$MODEL_NAME.txt
 
