@@ -17,7 +17,7 @@ nl='
 introduction="Provide a management plan for each scenario."
 
 # file options
-question_file=./managementQA.txt
+question_file=./management_q.txt
 touch ./llama-2-70b-chat/results/$MODEL_NAME.txt
 output_file=./llama-2-70b-chat/results/$MODEL_NAME.txt
 
