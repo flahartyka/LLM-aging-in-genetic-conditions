@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 
-vignette_file = open("vignette_bank_updated.txt", "r")
+vignette_file = open("vignette_bank.txt", "r")
 data = vignette_file.read()
 vignette_list = data.split('\n')
 counter = 1
