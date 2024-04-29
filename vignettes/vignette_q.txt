@@ -1,0 +1,122 @@
+Generate a brief medical vignette of a child with Down syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Down syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Romano-Ward syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Romano-Ward syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Autosomal dominant polycystic kidney disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Autosomal dominant polycystic kidney disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with 22q11.2 deletion syndrome. Incorporate the most important clinical features. 
+Generate a brief medical vignette of an adult with 22q11.2 deletion syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Neurofibromatosis type 1. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Neurofibromatosis type 1. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Fragile X syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Fragile X syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Retinitis pigmentosa. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Retinitis pigmentosa. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Mucolipidosis type III. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Mucolipidosis type III. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Alpha-1-antitrypsin deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Alpha-1-antitrypsin deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Marfan syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Marfan syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Congenital sucrase-isomaltase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Congenital sucrase-isomaltase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Cystic fibrosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Cystic fibrosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Trisomy 18. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Trisomy 18. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Recessive X-linked ichthyosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Recessive X-linked ichthyosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Hereditary hemorrhagic telangiectasia. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Hereditary hemorrhagic telangiectasia. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Mucopolysaccharidosis type 4A. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Mucopolysaccharidosis type 4A. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Dentinogenesis imperfecta. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Dentinogenesis imperfecta. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Cystinuria. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Cystinuria. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Stargardt disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Stargardt disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Triploidy. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Triploidy. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Steinert myotonic dystrophy. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Steinert myotonic dystrophy. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Stickler syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Stickler syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Medium chain acyl-CoA dehydrogenase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Medium chain acyl-CoA dehydrogenase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Huntington disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Huntington disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Phenylketonuria. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Phenylketonuria. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Hemophilia A. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Hemophilia A. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Von Willebrand disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Von Willebrand disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Rett syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Rett syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Aicardi-Goutières syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Aicardi-Goutières syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Sickle cell anemia. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Sickle cell anemia. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Duchenne muscular dystrophy. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Duchenne muscular dystrophy. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Gardner syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Gardner syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with CHARGE syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with CHARGE syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Osteogenesis imperfecta. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Osteogenesis imperfecta. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with X-linked adrenal hypoplasia congenita. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with X-linked adrenal hypoplasia congenita. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Angelman syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Angelman syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Sotos syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Sotos syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Pendred syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Pendred syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Fryns syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Fryns syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Hypohidrotic ectodermal dysplasia. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Hypohidrotic ectodermal dysplasia. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Fabry disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Fabry disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Wilson disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Wilson disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Retinoblastoma. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Retinoblastoma. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Tibial muscular dystrophy. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Tibial muscular dystrophy. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Cerebral arteriovenous malformation. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Cerebral arteriovenous malformation. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Turner syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Turner syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Smith-Magenis syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Smith-Magenis syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Amyotrophic lateral sclerosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Amyotrophic lateral sclerosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Sanfilippo syndrome type C. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Sanfilippo syndrome type C. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with X-linked retinoschisis. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with X-linked retinoschisis. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Hemolytic anemia due to red cell pyruvate kinase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Hemolytic anemia due to red cell pyruvate kinase deficiency. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Albers-Schönberg osteopetrosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Albers-Schönberg osteopetrosis. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Hereditary fructose intolerance. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Hereditary fructose intolerance. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Classical Ehlers-Danlos syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Classical Ehlers-Danlos syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Primary ciliary dyskinesia. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Primary ciliary dyskinesia. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Achondroplasia. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Achondroplasia. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Leber hereditary optic neuropathy. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Leber hereditary optic neuropathy. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Hartnup disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Hartnup disease. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Meckel syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Meckel syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of a child with Kallmann syndrome. Incorporate the most important clinical features.
+Generate a brief medical vignette of an adult with Kallmann syndrome. Incorporate the most important clinical features.
